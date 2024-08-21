@@ -54,17 +54,10 @@ You can view additional details about the recommended phone or search for specif
 
 The model uses a dataset (`processed_dataset.csv`) that includes features like price, brand, processor, RAM, battery capacity, and more. The original unscaled dataset (`dataset.csv`) is used for displaying details.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on the process for submitting pull requests.
 
 ## Contact
 
-For any questions or feedback, reach out at: support@phonepro.com
+For any questions or feedback, reach out at: vedant.kale22@pccoepune.org
 
 ---
 
