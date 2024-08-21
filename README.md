@@ -2,7 +2,6 @@
 
 PhonePro is a Streamlit-based web application that helps users find the best phone based on their preferences. With a user-friendly interface, PhonePro allows you to input your desired phone specifications and suggests the most suitable model using a machine learning algorithm. Additionally, you can search for details about specific phone models within the app.
 
-![PhonePro Screenshot](screenshot.png)  <!-- Replace with an actual screenshot -->
 
 ## Features
 
